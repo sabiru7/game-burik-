@@ -6,7 +6,8 @@
 
 ## 🎬 Cuplikan
 
-![Screenshot Hroro Burik](![image](https://github.com/user-attachments/assets/831b7245-1b4b-4612-b243-e00e14a00569)
+![Screenshot Hroro Burik](![image](https://github.com/user-attachments/assets/ed51f753-867e-436f-8394-02c34a5a402d)
+)
 )
 
 ---
