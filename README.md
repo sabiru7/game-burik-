@@ -6,7 +6,8 @@
 
 ## 🎬 Cuplikan
 
-![Screenshot Hroro Burik](link-gambar-atau-gif-jika-ada)
+![Screenshot Hroro Burik](![image](https://github.com/user-attachments/assets/831b7245-1b4b-4612-b243-e00e14a00569)
+)
 
 ---
 
