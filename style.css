@@ -1,0 +1,37 @@
+body {
+    background-color: 000;
+    color: fff;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#gameArea {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    margin: 20px auto;   
+    background: #111;
+    border: 3px solid red;
+    overflow:hidden;
+}
+
+#player, #monster {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+}
+
+#player {
+    background-color: lime;
+}
+
+#monster {
+    background-color: crimson;
+}
+
+#status {
+    margin: 20px;
+    font-size: 18px;
+}
